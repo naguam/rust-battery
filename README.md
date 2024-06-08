@@ -39,6 +39,7 @@ as a typed values, recalculated as necessary to be returned as a [SI measurement
 - FreeBSD
 - DragonFlyBSD
 - NetBSD
+- OpenBSD
 
 Do note that iOS implementation uses IOKit bindings, your application
 might be automatically rejected by Apple based on that fact. Use it on your own risk.
